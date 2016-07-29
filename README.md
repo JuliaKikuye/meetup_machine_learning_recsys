@@ -17,7 +17,6 @@ pip install -r requirements.txt
 
 Ainda, esta apresentação utiliza os dados públicos do GitHub Archive estão disponíveis no [Google BigQuery](https://developers.google.com/bigquery/). E para conseguir rodar a apresentação na sua máquina, você deve seguir os passos descritos [AQUI](https://www.githubarchive.org/#bigquery), para ter acesso ao dataset.
 
-https://cloud.google.com/bigquery/quickstart-web-ui
 # Rodar
 Execute o seguinte comando:
 ```
