@@ -1,0 +1,6 @@
+jupyter
+matplotlib
+pandas
+seaborn
+scikit-learn
+google-api-python-client
